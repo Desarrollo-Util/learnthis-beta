@@ -1,6 +1,12 @@
 # Learnthis Beta
 El objetivo de este repositorio es centralizar en él toda la información sobre la beta.
 
+## Canal de Discord
+
+Tenemos un canal de Discord donde podemos comentar todos los temas referentes a la beta, puedes unirte a través de este enlace:
+
+ - [Canal de Discord](https://discord.gg/gTHHdDcZ4f)
+
 
 ## Incidencias y sugerencias
 
